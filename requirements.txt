@@ -1,0 +1,8 @@
+langchain[all]
+streamlit
+// faiss-cpu
+sentence_transformers
+ctransformers
+pandas
+python-dotenv
+tabulate
